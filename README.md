@@ -1,4 +1,4 @@
-# HeavenDex-Launcher
+# HeavenDex Launcher + Bundler
 The HeavenDex Launcher is integrated into Radr.fun/Hawkeye to provide seamless one-click token deployment and bundling on the Heaven decentralized exchange.
 
 With Hawkeye’s unified launcher, developers can now create, warm up, bundle, and deploy their tokens across leading Solana launchpads—including HeavenDex, Pump.fun, Bonk, and BagsApp—all from one dashboard.
