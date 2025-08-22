@@ -24,8 +24,8 @@ Earn 20% of fees every time your referral launches a token on any platform via R
 🔧 Getting Started
 
 1. Sign in to Radr
-	•	Go to radr.fun/hawkeye
-	•	Sign in with your Solana wallet
+	•	Go to https://radr.fun/hawkeye
+	•	Sign in with your Telegram
 
 2. Create or Import a Wallet
 	•	Use the Wallets page to create a new wallet or import an existing one
